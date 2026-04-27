@@ -10,7 +10,7 @@ This is a simple ATM simulator built using Python and Streamlit.
 - Withdraw Money
 
 ## Live App:
-https://python-week1-66cd6vjfk6fsnbxhjvvgjj.streamlit.app/
+https://python-week1-gkunvvwb2ktd4e48duso6q.streamlit.app/
 
 ## Tech Used:
 - Python
